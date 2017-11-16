@@ -1,7 +1,7 @@
 # Argumentation Mining Models
 
 This repository provides three types of Neural Networks that can be used to solve the Context Independent Claim Detection.
-We employ our models on the  [IBM dataset](http://www.research.ibm.com/haifa/dept/vst/debating_data.shtml) and for each of them we consider the pretrained word embeddings built with [*Glove model*](https://nlp.stanford.edu/projects/glove/). For the **Tree-LSTM** model we follow the code of the Standford [Tree-Structured Long Short-Term Memory Networks](https://github.com/stanfordnlp/treelstm).
+We employ our models on the  [IBM dataset](http://www.research.ibm.com/haifa/dept/vst/debating_data.shtml) and for each of them we consider the pretrained word embeddings built with [*Glove model*](https://nlp.stanford.edu/projects/glove/). For the **Tree-LSTM** model we follow the code of the Stanford [Tree-Structured Long Short-Term Memory Networks](https://github.com/stanfordnlp/treelstm).
 
 
 ## Repository Structure
