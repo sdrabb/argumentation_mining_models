@@ -9,7 +9,7 @@ We employ our models on the  [IBM dataset](http://www.research.ibm.com/haifa/dep
 
 * [RNN](https://github.com/sdrabb/argumentation_mining_models/tree/master/rnn) implementation of the *RNN*: the model is defined in the file **rnn.py**, **scores_and_charts.py** is used to evaluate the model. 
 
-* [Tree-LSTM](https://github.com/sdrabb/argumentation_mining_models/tree/master/rnn) contains the changes made to the [Tree-Structured Long Short-Term Memory Networks](https://github.com/sdrabb/argumentation_mining_models/tree/master/rnn) to fit their implementation to our task. 
+* [Tree-LSTM](https://github.com/sdrabb/argumentation_mining_models/tree/master/tree_lstm) contains the changes made to the [Tree-Structured Long Short-Term Memory Networks](https://github.com/stanfordnlp/treelstm) to fit their implementation to our task. 
 
 
 ## Built With
