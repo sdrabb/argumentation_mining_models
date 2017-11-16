@@ -5,7 +5,9 @@ We employ our models on the  [IBM dataset](http://www.research.ibm.com/haifa/dep
 
 
 ## Repository Structure
-* [LSTM](https://github.com/sdrabb/argumentation_mining_models/tree/master/lstm) implementation of the *LSTM*: the model is defined in the file **lstm.py** 
+* [LSTM](https://github.com/sdrabb/argumentation_mining_models/tree/master/lstm) implementation of the *LSTM*: the model is defined in the file **lstm.py**, **scores.py** is used to evaluate the model. The considered topics are listed in **considered_topic.txt**.
+
+* [RNN](https://github.com/sdrabb/argumentation_mining_models/tree/master/rnn) implementation of the *RNN*: the model is defined in the file **rnn.py**, **scores_and_charts.py** is used to evaluate the model. 
 
 
 
